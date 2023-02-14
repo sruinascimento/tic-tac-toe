@@ -9,7 +9,7 @@ Nesse script foi abordado sobre:
 ## Desafio
 1. Valide as jogadas feitas, enquanto não for feito uma jogada válida, o programa deve pedir para que o usuário digite o índice.
 2. Peça para usuário inserir os índices de 1-9 e trate isso para o tabuleiro que usa os índices de 0-8.
-3. Crie um robô para representar o `jogador_o`. **Dica**: faça uma função para representar nosso robô e sorteie um número referente a posição que o robô jogará.
+3. Crie um robô para representar o `jogador_o`. **Dica**: faça uma função para representar nosso robô e sorteie um número referente a posição que o robô jogará. **Observação**: como o robô sorteará um número aleatório, é necessário sortear números dos índices até que seja uma posição válida!
 4. Teste exaustivamente as jogadas e restrições do jogo.
 5. Compartilhe no Discord e/ou LinkedIn.
 
